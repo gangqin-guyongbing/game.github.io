@@ -6,7 +6,6 @@ div{max-width:720px;margin:0px;padding:0px;margin:0 auto;}
 .pagebar2{margin:0 auto;text-align:center;background-color:yellow;}
 .pagebar a{margin-right:10px;font-size:20px;}
 .pagebar2 a{margin-right:10px;font-size:16px;}
-.left li{float:left;list-style:none;margin-right:10px;}
 ul{margin-left:0px;padding-left:0px;}
 .on{color:red;}
 .content{background-color:Azure;font-size:17px;min-height:500px;padding:2px;}
